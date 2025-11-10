@@ -1,0 +1,2 @@
+ #!/bin/env bash
+ pyinstaller --windowed  --onefile ./pymatrix.py
